@@ -80,7 +80,7 @@ body, html{
   font-family: 'Montserrat-semibold';
   text-transform: uppercase;
   font-size: 2.5rem;
-  font-size: calc(2rem + .3vw);
+  font-size: calc(2rem + .6vw);
   grid-row-start: 2;
   text-align: center;
 }
@@ -96,7 +96,7 @@ body, html{
 
 @media (min-width: 0){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -111,7 +111,7 @@ body, html{
 
 @media (min-width: 576px){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -126,7 +126,7 @@ body, html{
 
 @media (min-width: 768px){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -141,7 +141,7 @@ body, html{
 
 @media (min-width: 992px){
   #mainPortada h1{
-    font-size: calc(1.5rem + .2vw);
+    font-size: calc(1.5rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -156,7 +156,7 @@ body, html{
 
 @media (min-width: 1200px){
   #mainPortada h1{
-    font-size: calc(1.5rem + .2vw);
+    font-size: calc(1.5rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -212,7 +212,7 @@ header a{
   color: var(--main-text-color);
   margin: 0px 15px;
   font-family: 'Montserrat-semibold', sans-serif;
-  font-size: calc(1rem + .3vw);
+  font-size: calc(1rem + .6vw);
 }
 
 header a:hover{
