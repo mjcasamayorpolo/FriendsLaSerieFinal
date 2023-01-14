@@ -213,6 +213,7 @@ header a{
   margin: 0px 15px;
   font-family: 'Montserrat-semibold', sans-serif;
   min-width: 48px;
+  padding: 5px;
 }
 
 @media (min-width: 0){
