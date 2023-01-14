@@ -212,6 +212,7 @@ header a{
   color: var(--main-text-color);
   margin: 0px 15px;
   font-family: 'Montserrat-semibold', sans-serif;
+  min-width: 48px;
 }
 
 @media (min-width: 0){
