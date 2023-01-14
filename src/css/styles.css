@@ -614,8 +614,7 @@ footer {
 footer a{
   text-decoration:none;
   color: var(--main-text-color);
-  margin: 0px 5px;
-  min-width: 50px;
+  padding-bottom: 5px;
 }
 
 footer .content{
@@ -745,7 +744,10 @@ footer nav > span{
 }
 
 footer nav > ul{
-  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 15px;
 }
 
 footer nav a:hover{
