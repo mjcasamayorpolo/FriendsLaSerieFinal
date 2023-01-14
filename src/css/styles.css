@@ -615,6 +615,7 @@ footer a{
   text-decoration:none;
   color: var(--main-text-color);
   margin: 0px 5px;
+  min-width: 50px;
 }
 
 footer .content{
