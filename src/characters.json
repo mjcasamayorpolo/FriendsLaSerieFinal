@@ -1,0 +1,237 @@
+[
+    {
+        "id": "monica",
+        "title": "Monica Geller",
+        "mainImg": "pictureMainMonica",
+        "detailImg": "pictureDetailMonica",
+        "secondImg": "figureSerieMonica",
+        "parragraphs": [
+            "Interpretada por Courteney Cox, Monica es amable, cariñosa y amigable, pero quizás es más conocida por su obsesión por la limpieza y orden. Le gusta demostrar sus habilidades organizativas. También puede ser mandona y extremadamente competitiva.",
+            "Monica trabaja como chef y  a lo largo de la serie se ven sus distintos cambios de trabajo. De los personajes de la serie Friends el suyo sirve como punto de unión del grupo. Ross es su hermano,  Chandler y Joey son sus vecinos, Rachel su mejor amiga desde el instituto y Phoebe fue su ex compañera de piso. Vive donde vivía su abuela y su apartamento de Greenwich Village es uno de los principales lugares de reunión de la pandilla.",
+            "A lo largo de las temporadas, aparecen algunas de sus relaciones. Entre las más importantes destaca la relación con Richard, con el que tuvo la relación más larga."
+        ],
+        "list": [
+            {
+                "title": "El mejor 'Te quiero' de la historia de la TV",
+                "content": "Sí, se puso el pavo de Acción de Gracias en la cabeza para animar a Chandler y su reacción le dejó sin palabras. BEST MOMENT EVER.",
+                "video": "https://www.youtube.com/embed/o3VYW662In4"
+            },
+            {
+                "title": "El secreto",
+                "content": "Resulta que Monica no era tan organizada como pensábamos…",
+                "video": "https://www.youtube.com/embed/AZdivdpSk_0"
+            },
+            {
+                "title": "El vestido que quiere a toda costa",
+                "content": "Se acerca el día de su boda y Monica va con sus amigas a una barata para buscar el vestido que desea a menor costo. Cuando lo encuentra, alguien intenta robárselo. Ella… pues actúa como esperarías.",
+                "video": "https://www.youtube.com/embed/ZqbaKmfgqks"
+            },
+            {
+                "title": "¡Siete, siete, siete!",
+                "content": "Chandler empieza a salir con Kathy (la ex de Joey) y sabe que no puede competir con su amigo en cuanto a habilidades en la cama. Monica lo ayuda mostrándole las zonas erógenas y bueno… su imaginación voló demasiado.",
+                "video": "https://www.youtube.com/embed/zG-y12Q5Qro"
+            },
+            {
+                "title": "Las botas del infierno",
+                "content": "Monica se compra unas botas muy costosas con la promesa de que las usará a cada rato. No sabía que eran terriblemente incómodas.",
+                "video": "https://www.youtube.com/embed/Vp9U4gfWSr0"
+            }
+        ]
+    },
+    {
+        "id": "rachel",
+        "title": "Rachel Green",
+        "mainImg": "pictureMainRachel",
+        "detailImg": "pictureDetailRachel",
+        "secondImg": "figureSerieRachel",
+        "parragraphs":[
+            "Rachel Greene es un personaje ficticio de la serie de televisión estadounidense Friends (1994-2004). Fue interpretada por Jennifer Aniston, quien recibió premios Emmy y un Globo de Oro por su actuación.",
+            "Rachel es una entusiasta de la moda y la mejor amiga de Mónica de la escuela secundaria. La personalidad de Rachel Greene evoluciona un poco a lo largo de la serie. Al principio, se la retrata como una niña malcriada. A menudo puede ser egocéntrica, pero a menudo es dulce y trata de ser una buena amiga. Más adelante en la serie, especialmente después de dar a luz, se vuelve mucho menos ensimismada.",
+            "Es la mejor amiga de Monica y gran parte de la serie comparten apartamento. Empieza trabajando en la cafetería Central Perk, antes de dar su salto al mundo de la moda. Durante la serie mantiene varias relaciones, aunque «la relación» siempre fue con Ross con quien acaba teniendo una niña llamada Emma."
+        ],
+        "list": [
+            {
+                "title": "Cuando hizo ese postre",
+                "content": "Rachel no es muy buena en la cocina, así que sorprende a todos en Acción de Gracias con un postre, aunque confunde la receta. Tiene mermelada y crema, pero también papas, guisantes y carne… ¡Pobres comensales!",
+                "video": "https://www.youtube.com/embed/4a2aFYBbeBE"
+            },
+            {
+                "title": "Su boda con Ross en Las Vegas",
+                "content": "Después de varias temporadas de idas y venidas, ella y su eterno enamorado se casan, aunque no bajo circunstancias más tranquilas: su unión en la pecaminosa ciudad fue un plot twist bastante divertido. Para empezar, ambos estaban ebrios al momento de dar el 'sí', así que decidieron pasar su luna de miel en su habitación de hotel jugando a las cartas. En vez de tener un vestido de ensueño, la rubia deambula con un bigote y una barba dibujados en su rostro, mientras su esposo tampoco tenía el mejor de los aspectos.",
+                "video": "https://www.youtube.com/embed/8ZduC725ATk"
+            },
+            {
+                "title": "Cuando se convirtió en la madre más cool",
+                "content": "Cuando eres madre, no te importa hacer el ridículo para hacer feliz a tus hijos. Incluso si eso signifique cantar un rap misógino sobre traseros gigantescos. ¡Esa risa lo vale todo!",
+                "imgId2": "motherImg",
+                "video": "https://www.youtube.com/embed/kN2Y2neasJA"
+            },
+            {
+                "title": "Cuando recuperó su apartamento",
+                "content": "Rachel y Monica vivieron juntas por buena parte de la duración de la serie, y su convivencia desató infinidad de situaciones graciosas relacionadas con la obsesión por la limpieza y el orden de su amiga/cuñada. Pero uno de los episodios más llenos de adrenalina y diversión es en el cual ellas intercambian su departamento con el de Joey y Chandler, pero luego deben luchar por recuperarlo. Allí Rachel saca a relucir toda su astucia y su espíritu competitivo con resultados muy favorecedores.",
+                "video": "https://www.youtube.com/embed/8ZxVFKEBhcI"
+            },
+            {
+                "title": "Cuando se bajó del avión",
+                "content": "Finalmente, el mejor momento de Rachel. Después de tantas relaciones locas, lágrimas y risas, Rachel va a empezar una nueva vida en Paris, pero Ross, su eterno enamorado, descubre que aún la ama. Va a buscarla al aeropuerto, pero ella decide ir a Paris. ¿O no? Un excelente momento que llenó a todos los fanáticos de emoción.",
+                "video": "https://www.youtube.com/embed/Xg76uBdIekQ"
+            }
+        ]
+    },
+    {
+        "id": "phoebe",
+        "title": "Phoebe Buffay",
+        "mainImg": "pictureMainPhoebe",
+        "detailImg": "pictureDetailPhoebe",
+        "secondImg": "figureSeriePhoebe",
+        "parragraphs":[
+            "Phoebe Buffay es una guitarrista de naturaleza dulce pero extraña. Al no haber experimentado nada como una infancia normal y completa, Phoebe suele ser muy ingenua, a veces inteligente y, en algunos aspectos, todavía es una niña de corazón. Phoebe también sorprende a algunas personas en la línea de la historia con su franqueza en ocasiones que los toma desprevenidos de su yo habitual.",
+            "Es la más distraída del grupo. También es quién tuvo la infancia más dura. Su madre biológica la abandonó dejándolas a ella y a su hermana gemela, Ursula, con quien no se habla; y su madre adoptiva se suicidó cuando ellas eran adolescentes. Además, su padre biológico las abandonó y su padrastro fue a prisión, por lo que acabó viviendo en la calle.",
+            "Es un poco chiflada y rara y no duda en demostrarlo. Considera normales cosas que los demás ven de locos. A pesar de haber tenido que vivir en la calle robando y vagabundeando, es muy inocente y muy cariñosa con sus amigos; siempre está ahí cuando ellos la necesitan. Es vegetariana y ama a todo ser viviente e, incluso, a seres no vivientes. Ejerció de madre de alquiler porque su medio hermano no podía tener hijos con su mujer, mucho mayor que él. Dio a luz a trillizos. Se gana la vida como masajista, pero también disfruta de componer canciones y tocarlas acompañada de su guitarra."
+        ],
+        "list": [
+            {
+                "title": "En el que Phoebe se entera de ¡Chandler y Monica!",
+                "content": "Como si de un relato deportivo se tratara, Buffay, con su característica voz comienza a gritar en voz alta lo que sus ojos ven pero no pueden creer, mientras Rachel hace todos sus esfuerzos para tranquilizarla y así impedir que Ross, el único del grupo (además de Phoebe) que no sabía, se entere de la peor forma.",
+                "video": "https://www.youtube.com/embed/P2CVr4Jf0vg"
+            },
+            {
+                "title": "En el que Phoebe aprende a montar en bicicleta",
+                "content": "Luego de una triste historia sobre el pasado de Buffay, Ross, tocado por la tristeza del relato, decide regalarle una bicicleta a su amiga y de paso enseñarle a usarla. Pero, no es tan fácil y menos cuando se trata de Phoebe, pues una vez que el la suelta, ella siente la traición y finalmente decide dejarlo en el parque.",
+                "video": "https://www.youtube.com/embed/afIgKZ3qg_s"
+            },
+            {
+                "title": "Todas sus canciones",
+                "content": "Algo que siempre recordaremos de Phoebe son sus canciones. Ella misma componía las letras, con mucha imaginación, basándose en las experiencias de su vida. No tenía mucho talento musical, pero si bastante entusiasmo.",
+                "video": "https://www.youtube.com/embed/iD2h_Rc5atI"
+            },
+            {
+                "title": "Cuando no pudo enseñarle a Joey francés",
+                "content": "Phoebe adoraba a todos sus amigos, pero tenía un lugar especial en su corazón reservado para Joey. Por eso, cuando Joey necesita aprender francés para una audición, Phoebe se ofrece a enseñarle… sin tener idea del reto que esto supone.",
+                "video": "https://www.youtube.com/embed/TCtsopQ5FbQ"
+            },
+            {
+                "title": "Cuando demuestra que es la más competitiva",
+                "content": "En la octava temporada, Phoebe acaba con la inocencia del pequeño Ben cuando el niño la escucha decir una grosería ¡Todo por perder un juego de Pac Man!",
+                "video": "https://www.youtube.com/embed/2bNbXnTSvX8"
+            }
+        ]
+    },
+    {
+        "id": "chandler",
+        "title": "Chandler Bing",
+        "mainImg": "pictureMainChandler",
+        "detailImg": "pictureDetailChandler",
+        "secondImg": "figureSerieChandler",
+        "parragraphs":[
+            "Chandler Bing fue interpretado por Matthew Perry. Chandler es uno de los personajes de Friends que más destaca por su sarcástico e ingenioso sentido del humor, que con toda seguridad es usado como barrera para evitar herir sus carencias emocionales debido a las secuelas que le dejaron la separación de sus padres.",
+            "Una de las grandes incógnitas para sus amigos es su faceta laboral, ya que nadie sabe exactamente a qué se dedica. El hecho de que nadie supiese lo que hacía fue tomado como broma durante la mayor parte de las temporadas. Monica admite varias veces que no presta atención cuando habla de su trabajo, hasta que finalmente aprende lo que Chandler hace en el episodio 11 de la 9ª temporada.",
+            "Entre sus habilidades no está la de ligar con mujeres. Sus relaciones básicamente se resumen en dos. La persistente y peculiar Janice y finalmente Monica. Chandler es a la vez el mejor amigo de Joey y de Ross."
+        ],
+        "list": [
+            {
+                "title": "Cuando fingió seducir a Phoebe y le declaró su amor a Mónica",
+                "content": "",
+                "video": "https://www.youtube.com/embed/nI-Hz_gjg7k"
+            },
+            {
+                "title": "Cuando un pastel arruinó su amistad con Rachel",
+                "content": "",
+                "video": "https://www.youtube.com/embed/_y57oRNGI2c"
+            },
+            {
+                "title": "Cuando se peleó con Ross por el premio al mejor disfraz de Halloween",
+                "content": "La fiesta de Halloween de Mónica da un giro inesperado cuando Chandler irrumpe en la habitación llevando un enorme disfraz rosado de conejo que su misma novia se encargó de elegir para él. Sin embargo, aunque parecía que no había nadie que pudiese verse más ridículo, Ross le quita el trono cuando por decisión propia aparece llevando un disfraz de ¿patata? Ah no, del satélite ruso Sputnik.",
+                "video": "https://www.youtube.com/embed/bTeEZERYIiQ"
+            },
+            {
+                "title": "Cuando se hace las fotos del compromiso con Mónica",
+                "content": "",
+                "video": "https://www.youtube.com/embed/MFqhO7EzGuY"
+            },
+            {
+                "title": "Cuando olvidó que su relación con Mónica era un secreto",
+                "content": "",
+                "video": "https://www.youtube.com/embed/-iNW1m-KqCM"
+            }
+        ]
+    },
+    {
+        "id": "ross",
+        "title": "Ross Geller",
+        "mainImg": "pictureMainRoss",
+        "detailImg": "pictureDetailRoss",
+        "secondImg": "figureSerieRoss",
+        "parragraphs":[
+            "Interpretado por David Schwimmer. Ross es el hermano mayor de Mónica.Es doctor en paleontología. Empezó trabajando en un museo y terminó de profesor en una universidad. Es el más culto e inteligente, llegando a aburrir al resto de los amigos con largas lecciones.",
+            "Se divorció de Carol, estando embarazada de su futuro hijo Ben, cuando descubrió que ella era lesbiana. Desde entonces, se le da fatal ligar con las chicas. Se volvió a casar con una inglesa llamada Emily, pero se divorciaron rápidamente ya que cuando estaba en el altar se equivocó de nombre, mencionando el de Rachel. Se volvió a casar con una inglesa llamada Emily, pero se divorciaron rápidamente ya que cuando estaba en el altar se equivocó de nombre, mencionando el de Rachel.",
+            "Aunque es inteligente, educado, cariñoso, reflexivo y amable, Ross Geller suele ser socialmente torpe, adoptando las características del estereotipado «nerd perdedor». También tiene un sentido del humor seco, sarcástico e ingenioso que solo es superado por el de Chandler."
+        ],
+        "list": [
+            {
+                "title": "Los pantalones de cuero",
+                "content": "El episodio 11 de la 5ª temporada de Friends nos dejó uno de los mejores momentos protagonizados por Ross Geller: los problemas con sus pantalones de cuero en una de sus citas. Cada paso que daba Ross para intentar solucionar el lío con sus pantalones era peor que el anterior. Y claro, el bueno de Joey tampoco pudo ayudar mucho al otro lado del teléfono.",
+                "video": "https://www.youtube.com/embed/TGcGZEX2HKM"
+            },
+            {
+                "title": "EL bronceado",
+                "content": "Tampoco tuvo suerte Ross con su bronceado de rayos uva en el tercer capítulo de la 10ª temporada de Friends. Todo por culpa de su peculiar forma de contar los segundos de espera…",
+                "video": "https://www.youtube.com/embed/IU8r9SvGXu0"
+            },
+            {
+                "title": "El blanqueamiento dental",
+                "content": "La preocupación de Ross por su imagen y su carácter presumido jugaron más malas pasadas a Ross, como en el episodio 6 de la octava temporada. Esta vez, a causa de un blanqueamiento dental. Y, cómo no, en otra de sus citas.",
+                "video": "https://www.youtube.com/embed/CNHMgRDEBVI"
+            },
+            {
+                "title": "El bocadillo de Ross",
+                "content": "Por mucha técnica del Unagi que crea dominar Ross hay cosas que escapan a su control. Sobre todo cuando se trata de su deseado bocadillo con sobras de la cena de Acción de Gracias...",
+                "video": "https://www.youtube.com/embed/rffEBS46xBg"
+            },
+            {
+                "title": "La importancia del Unagi",
+                "content": "Puede que te suene a un tipo de sushi (porque lo es), pero para nuestro paleontólogo favorito (y, desde entonces, también para sus fans), se trata de un estado de alerta que hay que activar cuando las cosas se tuercen o sospechas de alguien.",
+                "video": "https://www.youtube.com/embed/Ceadzn17CSo"
+            }
+        ]
+    },
+    {
+        "id": "joey",
+        "title": "Joey Tribbiani",
+        "mainImg": "pictureMainJoey",
+        "detailImg": "pictureDetailJoey",
+        "secondImg": "figureSerieJoey",
+        "parragraphs":[
+            "Interpretado por Matthew Steven LeBlanc. Joey Tribbiani es generalmente una persona afable, encantadora y bien intencionada, pero no tan brillante. Le encanta la comida, las mujeres, el sexo, la familia, los amigos, la mermelada y los New York Knicks.",
+            "Joey es conocido por su amor por la comida y el sexo. Joey trabaja de actor, desde musicales, comerciales, películas, teatro, y televisión. El papel más grande de Joey ha sido Los días de nuestra vida.",
+            "El mejor amigo de Joey es Chandler, que vivió con el desde el principio de la serie hasta cuando Chandler le pide a Mónica que vivan juntos. Ross es el segundo amigo más cercano (aunque Ross ha sido referido como su mejor amigo muchas veces). En un momento, cuando Joey y Chandler tienen problemas porque Chandler besó a la novia de Joey, Joey reemplazó a Chandler por Ross como mejor amigo, aunque esto sólo duró hasta que Chandler pasó un Día de Acción de Gracias dentro de una caja para mostrar su respeto y como una disculpa hacia Joey. Joey y Chandler han permanecido como mejores amigos desde entonces."
+        ],
+        "list": [
+            {
+                "title": "Joey y la comida",
+                "content": "A lo largo de toda la serie hemos visto muchos momentos graciosos con Joey y su hábito de ser un glotón, pero sin duda el punto más gracioso de Joey es su egoísmo a la hora de compartir la comida (¡ni tan siquiera con la pobre Emma!), llegando incluso a plantearse el dejar de salir con una mujer porque esta no para de robarle comida de su plato.",
+                "video": "https://www.youtube.com/embed/Vqp_ynTg1wY"
+            },
+            {
+                "title": "El robo en el apartamento de Joey y Chandler",
+                "content": "Uno de los momentos más idiotas de Joey fue cuando se dejó robar tontamente mientras vendía el centro de ocio. Tratando de conseguir la venta, Joey le aseguró al posible comprador que el compartimento es tan grande que es capaz de meterse una persona. Como dice no creerle, Joey se mete dentro para demostrárselo, cosa que el chico aprovecha para dejarle encerrado y desvalijarle todo el piso.",
+                "video": "https://www.youtube.com/embed/FqQuDntRQZI"
+            },
+            {
+                "title": "Joey descubriendo la relación de Chandler y Monica",
+                "content": "Joey fue el primero en descubrir la relación de Monica y Chandler al unir todas las pistas: ambos fueron a un congreso en la misma ciudad, ambos se toparon con Donald Trump en el ascensor, y llamaron del hotel diciendo que Chandler se había dejado un rizador de pestañas, a lo que posteriormente Monica comentaba que había perdido su rizador de pestañas. La reacción de Joey al descubrir la relación de Monica y Chandler sin duda es de los momentos más graciosos vistos en Friends.",
+                "video": "https://www.youtube.com/embed/TUJNg-jUsgs"
+            },
+            {
+                "title": "La mejor siesta del mundo",
+                "content": "Joey y Ross deciden volver a ver Jungla de Cristal y la cosa no acaba como esperan.",
+                "video": "https://www.youtube.com/embed/fZiqm4ZjKQA"
+            },
+            {
+                "title": "Joey y la cabeza de pavo",
+                "content": "La escena de él con un pavo en la cabeza pertenece a un episodio Flashback en la que los protagonistas recuerdan sus peores días de acción de gracias. El capitulo es uno de los más queridos por los fans, y esta escena es mítica.",
+                "video": "https://www.youtube.com/embed/obGtncvIAII"
+            }
+        ]
+    }
+]
