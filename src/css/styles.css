@@ -96,7 +96,7 @@ body, html{
 
 @media (min-width: 0){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -111,7 +111,7 @@ body, html{
 
 @media (min-width: 576px){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -126,7 +126,7 @@ body, html{
 
 @media (min-width: 768px){
   #mainPortada h1{
-    font-size: calc(1rem + .2vw);
+    font-size: calc(1rem + .6vw);
   }
   #mainPortada .logo{
     transform: scale(0.7);
@@ -213,6 +213,36 @@ header a{
   margin: 0px 15px;
   font-family: 'Montserrat-semibold', sans-serif;
   font-size: calc(1rem + .2vw);
+}
+
+@media (min-width: 0){
+  header a{
+    font-size: calc(1rem + .6vw);
+  }
+}
+
+@media (min-width: 576px){
+  header a{
+    font-size: calc(1rem + .6vw);
+  }
+}
+
+@media (min-width: 768px){
+  header a{
+    font-size: calc(1rem + .2vw);
+  }
+}
+
+@media (min-width: 992px){
+  header a{
+    font-size: calc(1rem + .2vw);
+  }
+}
+
+@media (min-width: 1200px){
+  header a{
+    font-size: calc(1rem + .2vw);
+  }
 }
 
 header a:hover{
