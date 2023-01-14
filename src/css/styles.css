@@ -212,7 +212,6 @@ header a{
   color: var(--main-text-color);
   margin: 0px 15px;
   font-family: 'Montserrat-semibold', sans-serif;
-  font-size: calc(1rem + .2vw);
 }
 
 @media (min-width: 0){
