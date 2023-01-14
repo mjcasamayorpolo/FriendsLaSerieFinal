@@ -211,9 +211,8 @@ header a{
   text-decoration: none;
   color: var(--main-text-color);
   font-family: 'Montserrat-semibold', sans-serif;
-  min-width: 48px;
+  min-width: 50px;
   padding: 15px;
-  width: 50px;
 }
 
 @media (min-width: 0){
@@ -261,6 +260,12 @@ header a figure img{
 
 header .container{
   margin: 0 auto;
+}
+
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 nav ul{
