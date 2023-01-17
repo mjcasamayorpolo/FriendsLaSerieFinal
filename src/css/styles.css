@@ -604,6 +604,22 @@ iframe {
   cursor: pointer;
 }
 
+#monicaThumbnail1 {
+  background-image: url('../img/monicaThumbnail1.jpg');
+}
+#monicaThumbnail2 {
+  background-image: url('../img/monicaThumbnail2.jpg');
+}
+#monicaThumbnail3 {
+  background-image: url('../img/monicaThumbnail3.jpg');
+}
+#monicaThumbnail4 {
+  background-image: url('../img/monicaThumbnail4.jpg');
+}
+#monicaThumbnail5 {
+  background-image: url('../img/monicaThumbnail5.jpg');
+}
+
 /* FOOTER */
 
 footer {

@@ -80,6 +80,8 @@ function loadInfoCharacter(characterId){
             containerVideo.setAttribute('data-vendor','youtube');
             containerVideo.setAttribute('data-src', l.video);
             containerVideo.setAttribute('data-autoplay', false);
+            containerVideo.setAttribute('data-thumbnail', 'hqdefault.jpg');
+            containerVideo.setAttribute('id', l.idThumbnail)
             lazyframe(containerVideo,{
                 lazyload: true,
                 autoplay: false
@@ -109,6 +111,14 @@ function cleanPage(){
     }
 }
 
+function cleanThumbnail(){
+  var iframes = document.getElementsByClassName('lazyframe');
+  [...iframes].forEach(i =>{
+    i.style.backgroundImage = null;
+  });
+
+}
+
 loadInfoCharacter();
 
 const characters = document.querySelector(".characters");
@@ -118,4 +128,7 @@ characters.childNodes.forEach(a=> a.addEventListener('click', function(evt){
     loadInfoCharacter(evt.currentTarget.id);
     window.scrollTo(0, 0);
     location.hash = `#id=${evt.currentTarget.id}`;
+    setTimeout(() => cleanThumbnail(), 1000);
 }));
+
+window.addEventListener('load', () => cleanThumbnail());
