@@ -837,3 +837,8 @@ footer nav a:hover{
   display: flex;
   justify-content: center;
 }
+
+.characters img {
+  width: 100%;
+  height: auto;
+}
