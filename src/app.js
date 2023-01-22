@@ -80,7 +80,7 @@ function loadInfoCharacter(characterId){
             containerVideo.setAttribute('data-vendor','youtube');
             containerVideo.setAttribute('data-src', l.video);
             containerVideo.setAttribute('data-autoplay', false);
-            containerVideo.setAttribute('data-thumbnail', null);
+            containerVideo.setAttribute('data-thumbnail', '');
             containerVideo.setAttribute('id', l.idThumbnail);
             lazyframe(containerVideo,{
                 lazyload: true,
