@@ -80,8 +80,8 @@ function loadInfoCharacter(characterId){
             containerVideo.setAttribute('data-vendor','youtube');
             containerVideo.setAttribute('data-src', l.video);
             containerVideo.setAttribute('data-autoplay', false);
-            //containerVideo.setAttribute('data-thumbnail', '');
-            //containerVideo.setAttribute('id', l.idThumbnail)
+            containerVideo.setAttribute('data-thumbnail', '');
+            containerVideo.setAttribute('id', l.idThumbnail)
             lazyframe(containerVideo,{
                 lazyload: true,
                 autoplay: false
@@ -128,7 +128,7 @@ characters.childNodes.forEach(a=> a.addEventListener('click', function(evt){
     loadInfoCharacter(evt.currentTarget.id);
     window.scrollTo(0, 0);
     location.hash = `#id=${evt.currentTarget.id}`;
-    //setTimeout(() => cleanThumbnail(), 1000);
+    setTimeout(() => cleanThumbnail(), 1000);
 }));
 
-//window.addEventListener('load', () => cleanThumbnail());
+window.addEventListener('load', () => cleanThumbnail());
