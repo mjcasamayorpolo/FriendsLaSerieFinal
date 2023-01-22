@@ -81,7 +81,7 @@ function loadInfoCharacter(characterId){
             containerVideo.setAttribute('data-src', l.video);
             containerVideo.setAttribute('data-autoplay', false);
             containerVideo.setAttribute('data-thumbnail', 'https://i.ytimg.com/vi/8ZduC725ATk/hqdefault.jpg');
-            containerVideo.setAttribute('id', l.idThumbnail);
+            //containerVideo.setAttribute('id', l.idThumbnail);
             lazyframe(containerVideo,{
                 lazyload: true,
                 autoplay: false
